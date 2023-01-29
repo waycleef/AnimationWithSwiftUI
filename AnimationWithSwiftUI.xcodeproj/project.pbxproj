@@ -8,15 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		5FB898DC298676FF0079782E /* AnimationWithSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FB898DB298676FF0079782E /* AnimationWithSwiftUIApp.swift */; };
-		5FB898DE298676FF0079782E /* PolygonAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FB898DD298676FF0079782E /* PolygonAnimationView.swift */; };
 		5FB898E0298677000079782E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5FB898DF298677000079782E /* Assets.xcassets */; };
 		5FB898E3298677000079782E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5FB898E2298677000079782E /* Preview Assets.xcassets */; };
-		5FB898EA2986AF070079782E /* StarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FB898E92986AF070079782E /* StarView.swift */; };
-		5FB898EC2986B0B40079782E /* PolygonShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FB898EB2986B0B40079782E /* PolygonShape.swift */; };
 		5FB898EE2986B5D60079782E /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FB898ED2986B5D60079782E /* ButtonView.swift */; };
-		5FB898F02986B90B0079782E /* Polygon2Shape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FB898EF2986B90B0079782E /* Polygon2Shape.swift */; };
 		5FB898F22986BA500079782E /* TabAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FB898F12986BA500079782E /* TabAnimationView.swift */; };
-		5FB898F42986BC990079782E /* PolygonAnimation2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FB898F32986BC990079782E /* PolygonAnimation2View.swift */; };
 		5FB898F62986BF080079782E /* Polygon3Shape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FB898F52986BF080079782E /* Polygon3Shape.swift */; };
 		5FB898F82986BFBF0079782E /* PolygonAnimation3View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FB898F72986BFBF0079782E /* PolygonAnimation3View.swift */; };
 		5FB898FA2986C38A0079782E /* Polygon4Shape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FB898F92986C38A0079782E /* Polygon4Shape.swift */; };
@@ -26,15 +21,10 @@
 /* Begin PBXFileReference section */
 		5FB898D8298676FF0079782E /* AnimationWithSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnimationWithSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5FB898DB298676FF0079782E /* AnimationWithSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationWithSwiftUIApp.swift; sourceTree = "<group>"; };
-		5FB898DD298676FF0079782E /* PolygonAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PolygonAnimationView.swift; sourceTree = "<group>"; };
 		5FB898DF298677000079782E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5FB898E2298677000079782E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		5FB898E92986AF070079782E /* StarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarView.swift; sourceTree = "<group>"; };
-		5FB898EB2986B0B40079782E /* PolygonShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PolygonShape.swift; sourceTree = "<group>"; };
 		5FB898ED2986B5D60079782E /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
-		5FB898EF2986B90B0079782E /* Polygon2Shape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Polygon2Shape.swift; sourceTree = "<group>"; };
 		5FB898F12986BA500079782E /* TabAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabAnimationView.swift; sourceTree = "<group>"; };
-		5FB898F32986BC990079782E /* PolygonAnimation2View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PolygonAnimation2View.swift; sourceTree = "<group>"; };
 		5FB898F52986BF080079782E /* Polygon3Shape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Polygon3Shape.swift; sourceTree = "<group>"; };
 		5FB898F72986BFBF0079782E /* PolygonAnimation3View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PolygonAnimation3View.swift; sourceTree = "<group>"; };
 		5FB898F92986C38A0079782E /* Polygon4Shape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Polygon4Shape.swift; sourceTree = "<group>"; };
@@ -73,13 +63,8 @@
 			children = (
 				5FB898DB298676FF0079782E /* AnimationWithSwiftUIApp.swift */,
 				5FB898F12986BA500079782E /* TabAnimationView.swift */,
-				5FB898DD298676FF0079782E /* PolygonAnimationView.swift */,
-				5FB898F32986BC990079782E /* PolygonAnimation2View.swift */,
 				5FB898F72986BFBF0079782E /* PolygonAnimation3View.swift */,
 				5FB898FB2986C3EE0079782E /* PolygonAnimation4View.swift */,
-				5FB898E92986AF070079782E /* StarView.swift */,
-				5FB898EB2986B0B40079782E /* PolygonShape.swift */,
-				5FB898EF2986B90B0079782E /* Polygon2Shape.swift */,
 				5FB898F52986BF080079782E /* Polygon3Shape.swift */,
 				5FB898F92986C38A0079782E /* Polygon4Shape.swift */,
 				5FB898ED2986B5D60079782E /* ButtonView.swift */,
@@ -167,17 +152,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5FB898EA2986AF070079782E /* StarView.swift in Sources */,
-				5FB898DE298676FF0079782E /* PolygonAnimationView.swift in Sources */,
 				5FB898F82986BFBF0079782E /* PolygonAnimation3View.swift in Sources */,
 				5FB898EE2986B5D60079782E /* ButtonView.swift in Sources */,
-				5FB898F42986BC990079782E /* PolygonAnimation2View.swift in Sources */,
 				5FB898FC2986C3EE0079782E /* PolygonAnimation4View.swift in Sources */,
 				5FB898DC298676FF0079782E /* AnimationWithSwiftUIApp.swift in Sources */,
 				5FB898F62986BF080079782E /* Polygon3Shape.swift in Sources */,
 				5FB898F22986BA500079782E /* TabAnimationView.swift in Sources */,
-				5FB898F02986B90B0079782E /* Polygon2Shape.swift in Sources */,
-				5FB898EC2986B0B40079782E /* PolygonShape.swift in Sources */,
 				5FB898FA2986C38A0079782E /* Polygon4Shape.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

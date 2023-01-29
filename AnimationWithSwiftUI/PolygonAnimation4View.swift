@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct PolygonAnimation4View: View {
-    @State private var sides: Double = 4
+    @State private var sides: Double = 7
     @State private var scale: Double = 1.0
     
     @State private var start = false
